@@ -1,0 +1,17 @@
+{
+    "name": "be.allardmederic.tooboxeditor.Editor",
+    "references": [
+        "GUID:15d1463b500e3a547aa5bfffe82c3ac3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
