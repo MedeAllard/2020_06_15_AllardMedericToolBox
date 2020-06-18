@@ -9,7 +9,7 @@ public class Raycast : MonoBehaviour
 
     public float _distance;
 
-    RaycastHit _raycastHit;
+    protected RaycastHit _raycastHit;
 
     public UnityEvent OnCastHit;
     public UnityEvent OnCastMiss;
